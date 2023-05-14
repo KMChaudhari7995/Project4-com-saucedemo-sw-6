@@ -1,0 +1,14 @@
+2023-05-14 12:05:235 INFO  LoginPage :38 - EnterUsername : standard_user
+2023-05-14 12:05:377 INFO  LoginPage :46 - Enter Password : secret_sauce
+2023-05-14 12:05:528 INFO  LoginPage :54 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (ab1cb8a286e2dd69b986358c6004e906)] -> id: login-button]
+2023-05-14 12:05:587 INFO  LoginPage :59 - Get Product Text : [[ChromeDriver: chrome on WINDOWS (ab1cb8a286e2dd69b986358c6004e906)] -> xpath: //span[@class='title']]
+2023-05-14 12:05:917 INFO  LoginPage :38 - EnterUsername : standard_user
+2023-05-14 12:05:961 INFO  LoginPage :46 - Enter Password : secret_sauce
+2023-05-14 12:05:21 INFO  LoginPage :54 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (f13b1a49f0a413f42f68b14e56be7999)] -> id: login-button]
+2023-05-14 12:05:37 INFO  LoginPage :59 - Get Product Text : [[ChromeDriver: chrome on WINDOWS (f13b1a49f0a413f42f68b14e56be7999)] -> xpath: //span[@class='title']]
+2023-05-14 12:05:548 INFO  LoginPage :38 - EnterUsername : standard_user
+2023-05-14 12:05:601 INFO  LoginPage :46 - Enter Password : secret_sauce
+2023-05-14 12:05:662 INFO  LoginPage :54 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (7621430bfcaddb830a79452d46a8813b)] -> id: login-button]
+2023-05-14 12:05:720 INFO  LoginPage :38 - EnterUsername : standard_user
+2023-05-14 12:05:763 INFO  LoginPage :46 - Enter Password : secret_sauce
+2023-05-14 12:05:826 INFO  LoginPage :54 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (8ed9cd8354e62f6ce83651a27f2e95fd)] -> id: login-button]
